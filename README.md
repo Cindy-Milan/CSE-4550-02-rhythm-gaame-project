@@ -17,10 +17,10 @@ A demonstration of the level *Goth Girl* is shown below:
 **Eric Son**          *(Project Manager)*  
 **Aracely Arevalo**    *(Assistant Project Manager)*  
 **Tyler Oviatt**       *(Software Engineer)*  
-**Cynthia Milan**      *(Art)*  
-**Angelina Renfroe**   *(UI Design)*  
+**Cynthia Milan**      *(Software Engineer/Art)*  
+**Angelina Renfroe**   *(Software Engineer/ UI Design)*  
 **Tianyi Zhang**       *(Software Engineer)*  
-**Josue Barrera**      *(Level Designer)*  
+**Josue Barrera**      *(Software Engineer/ Level Designer)*  
 
 
 
